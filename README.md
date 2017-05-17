@@ -20,7 +20,9 @@ We rely on pcl to manage the point cloud data.
 
 # Building
 
+```
 mkdir build
 cd build
 cmake ..
 make
+```
